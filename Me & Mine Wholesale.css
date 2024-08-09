@@ -1,0 +1,122 @@
+.link
+{
+    word-spacing:5px;
+    font-size:20px;	
+    background-color:#afd9b8;
+    height: 55px;
+}
+.image
+{
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+.image1
+{
+    position: absolute;
+    left: 150px;
+    top: 430px;
+}
+.image2
+{
+    position: absolute;
+    top: 670px;
+    left: 550px;
+}
+.image3
+{
+    position: absolute;
+    top: 950px;
+    left: 50px;
+}
+.tee
+{
+    position: absolute;
+    top: 1890px;
+    left: 660px;
+}
+.tree
+{
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 1550px;
+    height: 600px;
+    top: 2190px;
+}
+.image4
+{
+    position: absolute;
+    left: 1170px;
+}
+.image5
+{
+    position: absolute;
+    left: 1150px;
+    top: 2610px;
+}
+.why
+{
+    position: absolute;
+    top: 2790px;
+    left: 900px;
+}
+.saw
+{
+    position: absolute;
+    top: 2850px;
+    left: 1230px;
+}
+.sin
+{
+    width: 1550px;
+    height: 900px;
+    position: absolute;
+    top: 3170px;
+    /*background-color: #fbfbee;*/
+    background-color: #f7f7d5;
+}
+.pee
+{
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.when
+{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+}
+.footer
+{
+    word-spacing:5px;
+    font-size:20px;	
+    background-color:#afd9b8;
+    height: 85px;
+    position: relative;
+    top: 6940px;
+}
+.vl
+{
+	border-left:1px solid darkblue;
+	height:50px;
+    position: absolute;
+    left: 460px;
+    top: 20px;
+}
+.vl1
+{
+    border-left:1px solid darkblue;
+	height:30px;
+    position: absolute;
+    left: 1110px;
+    top: 30px;
+}
+.vl2
+{
+    border-left:1px solid darkblue;
+	height:30px;
+    position: absolute;
+    left: 1300px;
+    top: 30px;
+}

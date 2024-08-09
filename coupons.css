@@ -1,0 +1,368 @@
+.link
+{
+word-spacing:5px;
+font-size:20px;	
+background-color:#afd9b8;
+}
+.top-right
+{
+  position: absolute;
+  top: 1%;
+  right: 12%;
+  font-size: 20px;
+  word-spacing: 8px;
+  text-align: left;
+  font-weight: bold;
+}
+.form-control
+{
+    margin-top: 9px;
+    margin-left: 30px;
+    border: 1 px black;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.search-box
+{
+    display: inline-flex;
+    width: 40%;
+    position: relative;
+    left: 180px;
+}
+.input-group-text
+{
+    background: white;
+    border: 20px black;
+    margin: 8.5px 10px 3px 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.dropdown
+{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    width: 250px;
+    padding: 12px 16px;
+    z-index: 1;
+    font-weight: bold;
+    word-spacing: 8px;
+    background-color: white;
+}
+.dropdown:hover .dropdown-content
+{
+    display: block;
+}
+.featurette-divider 
+{
+   margin: 5rem 0; 
+}
+.align
+{
+  font-size:20px;
+  word-spacing: 0px;
+  position: relative;
+  left: 40px;
+  top: 15px;
+}
+.type
+{
+    background-color: #f7f5ff;
+}
+.vertical-menu 
+{
+    width: 340px;
+    /*height: 200px;*/
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    font-size: 20px;
+}
+  
+.vertical-menu a 
+{
+    background-color: #f7f5ff;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+  
+.vertical-menu a:hover 
+{
+    background-color: #a0c8c9;
+    color: darkblue;
+}
+.footer
+{
+    background-color: #eeeaaa;
+    min-width: 978px;
+    border-top: 1px solid #ddd;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(221, 221, 221);
+    margin-top: 0px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0px;
+    margin-left: 0px;
+    display: block;
+    position: relative;
+    top: 2280px;
+}
+.vl
+{
+	border-left:1px solid black;
+	height:165px;
+    position: absolute;
+    left: 980px;
+}
+.sad
+{
+    position: relative;
+    left: 40px;
+}
+.line
+{
+    padding: 20px;
+    display: inline-flex;
+    word-spacing: 2px;
+	margin-left:40px;
+    position: relative;
+    top: 30px;
+}
+.cake
+{
+    background-color: #f8f9d5;
+    width: 900px;
+    height: 2250px;
+    position: absolute;
+    left: 460px;
+}
+.where
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 70px;
+}
+.when
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 167px;
+}
+.why
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 268px;
+}
+.went
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 369px;
+}
+.sale
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 470px;
+}
+.how
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 569px;
+}
+.help
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 670px;
+}
+.top
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 769px;
+}
+.see
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 870px;
+}
+.saw
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 969px;
+}
+.seen
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1169px;
+}
+.many
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1268px;
+}
+.some
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1366px;
+}
+.mean
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1465px;
+}
+.mode
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1566px;
+}
+.most
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1665px;
+}
+.made
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1764px;
+}
+.soo
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1863px;
+}
+.sow
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 1961px;
+}
+.fork
+{
+    width: 750px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+    position: absolute;
+    left: 40px;
+    top: 2060px;
+}

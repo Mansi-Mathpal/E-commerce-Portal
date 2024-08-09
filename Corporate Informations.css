@@ -1,0 +1,57 @@
+.link
+{
+    word-spacing:5px;
+    background-color:#afd9b8;
+    height: 58px;
+}
+.form-control
+{
+    margin-top: 9px;
+    margin-left: 30px;
+    border: 1 px black;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.search-box
+{
+    display: inline-flex;
+    width: 40%;
+    position: absolute;
+    left: 300px;
+    top: 0px;
+}
+.input-group-text
+{
+    background: white;
+    border: 20px black;
+    margin: 8.5px 10px 3px 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.vl
+{
+	border-left:1px solid black;
+	height:25px;
+    position: absolute;
+    left: 350px;
+    top: 760px;
+}
+.vl1
+{
+	border-left:1px solid black;
+	height:25px;
+    position: absolute;
+    left: 470px;
+    top: 760px;
+}
+.vl2
+{
+	border-left:1px solid black;
+	height:25px;
+    position: absolute;
+    left: 565px;
+    top: 760px;
+}

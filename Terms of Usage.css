@@ -1,0 +1,46 @@
+.link
+{
+    word-spacing:5px;
+    font-size:20px;	
+    background-color:#afd9b8;
+    height: 55px;
+}
+.see
+{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+}
+.footer
+{
+    word-spacing:5px;
+    font-size:20px;	
+    background-color:#afd9b8;
+    height: 85px;
+    position: relative;
+    top: 19100px;
+}
+.vl
+{
+	border-left:1px solid darkblue;
+	height:50px;
+    position: absolute;
+    left: 460px;
+    top: 20px;
+}
+.vl1
+{
+    border-left:1px solid darkblue;
+	height:30px;
+    position: absolute;
+    left: 1110px;
+    top: 30px;
+}
+.vl2
+{
+    border-left:1px solid darkblue;
+	height:30px;
+    position: absolute;
+    left: 1300px;
+    top: 30px;
+}
