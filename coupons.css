@@ -75,11 +75,11 @@ background-color:#afd9b8;
 .type
 {
     background-color: #f7f5ff;
+    height: 920px;
 }
 .vertical-menu 
 {
     width: 340px;
-    /*height: 200px;*/
     position: absolute;
     left: 100px;
     top: 100px;
